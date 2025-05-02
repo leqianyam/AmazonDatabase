@@ -12,34 +12,52 @@ The report is organized into three main tabs:
 
 📂 Report Tabs
 1️⃣ Overview
--Displays key metrics: Total Sales, Sales Amount, Seller Count, and Sales by State & City
--📌 Clickable product category list and status filter on the left
--🔍 Search bar at the top center to quickly filter products
--➡️ Toggle buttons on the right to switch between Sales and Units
--🔗 Navigation buttons in the top-right corner
+Displays key metrics: Total Sales, Sales Amount, Seller Count, and Sales by State & City
+
+📌 Clickable product category list and status filter on the left
+
+🔍 Search bar at the top center to quickly filter products
+
+➡️ Toggle buttons on the right to switch between Sales and Units
+
+🔗 Navigation buttons in the top-right corner
 (Use Ctrl + Click to navigate in Power BI)
 
 2️⃣ Products
--🔍 Search bar in the top center to filter the product list instantly
--📁 Clickable product categories on the left
--📦 Product names on the right with hover tooltips showing:
-  -Sale Amount
-  -Units Sold
-  -Returned Units
-  -Number of Reviews
--🔗 Navigation buttons on the top-right (Ctrl + Click)
+🔍 Search bar in the top center to filter the product list instantly
+
+📁 Clickable product categories on the left
+
+📦 Product names on the right with hover tooltips showing:
+
+Sale Amount
+
+Units Sold
+
+Returned Units
+
+Number of Reviews
+
+🔗 Navigation buttons on the top-right (Ctrl + Click)
 
 3️⃣ Product View
--📦 Displays detailed product metrics:
-  -Sales Amount
-  -Units Sold
-  -Returned Units
-  -Number of Reviews
--🔍 Search bar in the top center for filtering by product name
--📅 Date filter on the middle right for time-based filtering
--📃 Interactive product list at the bottom — click items to view their data
--🔗 Navigation buttons in the top-right (Ctrl + Click)
+📦 Displays detailed product metrics:
 
+Sales Amount
+
+Units Sold
+
+Returned Units
+
+Number of Reviews
+
+🔍 Search bar in the top center for filtering by product name
+
+📅 Date filter on the middle right for time-based filtering
+
+📃 Interactive product list at the bottom — click items to view their data
+
+🔗 Navigation buttons in the top-right (Ctrl + Click)
 
 
 
