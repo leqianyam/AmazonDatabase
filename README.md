@@ -10,6 +10,7 @@ This Power BI report provides a dynamic and interactive dashboard for analyzing 
 This dashboard is designed to help users **explore trends**, **identify high-performing regions and sellers**, and **make data-driven decisions** based on sales performance.
 The report is organized into three main tabs:
 
+📂 Report Tabs
 1️⃣ Overview
 Displays key metrics: Total Sales, Sales Amount, Seller Count, and Sales by State & City
 
@@ -19,8 +20,7 @@ Displays key metrics: Total Sales, Sales Amount, Seller Count, and Sales by Stat
 
 ➡️ Toggle buttons on the right to switch between Sales and Units
 
-🔗 Navigation buttons in the top-right corner
-(Use Ctrl + Click to navigate in Power BI)
+🔗 Navigation buttons in the top-right corner (Use Ctrl + Click to navigate in Power BI)
 
 2️⃣ Products
 🔍 Search bar in the top center to filter the product list instantly
@@ -57,7 +57,6 @@ Number of Reviews
 📃 Interactive product list at the bottom — click items to view their data
 
 🔗 Navigation buttons in the top-right (Ctrl + Click)
-
 
 
 
