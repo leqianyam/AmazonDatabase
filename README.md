@@ -9,7 +9,8 @@ This Power BI report provides a dynamic and interactive dashboard for analyzing 
 
 This dashboard is designed to help users **explore trends**, **identify high-performing regions and sellers**, and **make data-driven decisions** based on sales performance.
 ***Please do not make edits and changes to the file.***
-The report is organized into three main tabs:
+
+### The report is organized into three main tabs:
 
 ### 📂 Report Tabs
 
