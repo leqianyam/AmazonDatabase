@@ -10,33 +10,54 @@ This Power BI report provides a dynamic and interactive dashboard for analyzing 
 This dashboard is designed to help users **explore trends**, **identify high-performing regions and sellers**, and **make data-driven decisions** based on sales performance.
 The report is organized into three main tabs:
 
-1)Overview
+1️⃣ Overview
 Displays key metrics: Total Sales, Sales Amount, Seller Count, and Sales by State & City
-Includes filters for products
-📌 On the left, there’s a clickable product category list along with a status filter 
-🔍 A search bar in the top center makes it easy to find and filter products quickly
-➡️ On the right, two toggle buttons allow you to switch between Sales and Units
-🔗 On the top-right, there are navigation buttons (Ctrl + Click to use)
 
-2)Products 
-🔍 A search bar at the top center filters the product list instantly
-📁 On the left, users can click product categories to explore grouped items
-📦 On the right, product names are listed with hover tooltips showing:
+📌 Clickable product category list and status filter on the left
+
+🔍 Search bar at the top center to quickly filter products
+
+➡️ Toggle buttons on the right to switch between Sales and Units
+
+🔗 Navigation buttons in the top-right corner
+(Use Ctrl + Click in Power BI to navigate)
+
+2️⃣ Products
+🔍 Search bar in the top center to filter product list instantly
+
+📁 Clickable product categories on the left
+
+📦 Product names on the right with hover tooltips showing:
+
 Sale Amount
-Units Sold
-Returned Units
-Number of Reviews
-🔗 On the top-right, there are navigation buttons (Ctrl + Click to use)
 
-3)Product View
-📦 Shows detailed metrics for each product name:
-Sales Amount
 Units Sold
+
 Returned Units
+
 Number of Reviews
-🔍 A search bar in the top center helps filter by product name
-📅 A date filter on the middle right allows dynamic time-based filtering
-📃 An interactive product list at the bottom lets users click items to display corresponding data
-🔗 Navigation buttons on the top right for moving between tabs (Ctrl + Click)
+
+🔗 Navigation buttons on the top-right (Ctrl + Click)
+
+3️⃣ Product View
+📦 Displays detailed product metrics:
+
+Sales Amount
+
+Units Sold
+
+Returned Units
+
+Number of Reviews
+
+🔍 Search bar in the top center for filtering by product name
+
+📅 Date filter on the middle right for dynamic date range selection
+
+📃 Interactive product list at the bottom — click items to view related data
+
+🔗 Navigation buttons in the top-right (Ctrl + Click)
+
+
 
 
